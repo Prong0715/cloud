@@ -21,6 +21,7 @@ public class ClientExampleController {
 
 	public String serviceUrl() {
 	    return "20164155-sample1.223.130.168.242.traefik.me";
+	    
 	}
 	
     @RequestMapping(value="/emplist", method=RequestMethod.GET)
