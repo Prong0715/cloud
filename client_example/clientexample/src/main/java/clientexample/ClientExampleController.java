@@ -20,7 +20,7 @@ public class ClientExampleController {
 	UIData uiData = new UIData();
 
 	public String serviceUrl() {
-	    return "20164155-sample1.223.130.168.242.traefik.me";
+	    return "https://20164155-sample1.223.130.168.242.traefik.me";
 	    
 	}
 	
